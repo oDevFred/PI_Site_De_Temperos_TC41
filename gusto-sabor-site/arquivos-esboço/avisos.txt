@@ -1,0 +1,6 @@
+## Esse é um documento para avisos e anotações gerais da equipe ##
+
+Inicialmente o nosso projeto será de um site de temperos,
+Gostaira se possível que cada um da nossa equipe fique responsável por uma página, no total são 5, posteriormente se acharmos que será nescessário ter mais, a gente alinha.
+
+O esboço para a apresentação de hoje estará nessa pasta.
