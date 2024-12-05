@@ -6,4 +6,6 @@ O site se trata de uma empresa de temperos atacadista, um local onde empresas va
 
 Turma 41 - Grupo 1
 
-- Caio "oDevFred" Frederico
+- Caio Frederico - https://github.com/oDevFred
+- Ricardo Balmant Jr - https://github.com/Balmantjr
+- Flávio Santos - https://github.com/flaviosoli
