@@ -12,3 +12,5 @@ O esboço para a apresentação de hoje estará nessa pasta.
 - Fazer um projeto base com Header e Footer padrão para todas as páginas, onde cada um só irá alterar o Main - Conforme apresentado pelo Grupo 2, eu achei muito legal.
 
 - Em alguma parte, a gente poder informar quantos clientes em média consome os temperos, quantas casas já atigiram, etc.
+
+- É de extrema importância que se matenha os arquivos do projeto organizado e padronizado. Arquivos com nome minúsculo e espaçados com (-), além de todos estarem em suas devidas pastas.
